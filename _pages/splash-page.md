@@ -1,7 +1,7 @@
 
 ---
 title: "Splash Page"
-layout: single
+layout: splash
 permalink: /splash-page/
 header:
   overlay_color: "#000"
