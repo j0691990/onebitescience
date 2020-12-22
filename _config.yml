@@ -14,12 +14,6 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-# Header 
-excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
-header			:
-image			: /assets/images/front_cover.jpg
-image_description	: "A description of the image"
-
 
 # Site Settings
 locale                   : "ko-KR"
@@ -124,6 +118,13 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
+# Site Feader 
+excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
+header:
+image: /assets/images/front_cover.jpg
+image_description: "A description of the image"
+
 
 # Site Footer
 footer:
