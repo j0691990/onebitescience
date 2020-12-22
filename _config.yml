@@ -94,9 +94,9 @@ analytics:
 # Site Author
 author:
   name             : "Json_yummy"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  avatar           : "/assets/images/Logo.png"
+  bio              : "I love sharing knowledge from various research fields"
+  location         : "Seoul, South Korea"
   email            :
   links:
     - label: "Email"
