@@ -102,10 +102,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:j0691990@gmail.com"
+      url: "mailto:j0691990@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://j0691990.github.io/onebitescience.github.io/"
+      url: "https://j0691990.github.io/onebitescience.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
