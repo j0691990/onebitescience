@@ -15,8 +15,9 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Header 
+excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
 header			:
-image			: "/assets/images/front_cover.jpg"
+image			: /assets/images/front_cover.jpg
 image_description	: "A description of the image"
 
 
