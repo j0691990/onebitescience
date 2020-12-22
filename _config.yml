@@ -280,7 +280,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash #single
+      layout: single #single
       author_profile: true
       read_time: true
       comments: # true
@@ -292,7 +292,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: splash #single
       author_profile: true
       read_time: false
       comments: false
