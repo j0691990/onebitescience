@@ -1,5 +1,5 @@
 ---
-title: "Splash matter"
+title: "매일 한입씩 지식을 떠먹자"
 layout: splash
 permalink: /main/
 author_profile: true
@@ -12,7 +12,7 @@ header:
    - label: "Download"
      url: "https://github.com/mmistakes/minimal-mistakes/"
 
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "세상의 모든 진리를 깨우칠 순 없지만, 다른 사람들은 어떤 고민을 하면서 연구했는지, 그 고민의 결과물은 어떤식으로 report 했고 지금 우리가 사는 세상에 어떻게 적용될 수 있는지를 탐구합니다."
 
 ---
 
