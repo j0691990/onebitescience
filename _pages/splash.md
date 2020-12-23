@@ -1,7 +1,7 @@
 ---
 title: "One Bite Science"
 layout: splash
-permalink: /main/
+permalink: /home/
 author_profile: true
 header:
   overlay_color: "#000"
