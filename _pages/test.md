@@ -1,12 +1,7 @@
-
 ---
-title: "test"
-
-layout: single
-
+title: "Splash matter"
+layout: splash
 permalink: /test/
-
 ---
 
-테스트
-
+## The splash test page
