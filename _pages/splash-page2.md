@@ -4,7 +4,7 @@ title: "test"
 
 layout: single
 
-permalink: /test/
+permalink: https://j0691990.github.io/onebitescience.github.io/test/
 
 ---
 
