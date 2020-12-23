@@ -2,18 +2,17 @@
 title: "One Bite Science"
 layout: splash
 permalink: /home/
-author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/front_cover.jpg
   actions:
 
-   - label: "Download"
+   - label: "Read More"
      url: "https://github.com/mmistakes/minimal-mistakes/"
 
 excerpt: "세상의 모든 진리를 깨우칠 수는 없습니다. 
-하지만 연구자들은 어떤 고민을 했는지, 
+하지만 많은 연구자들이 남겨놓은 흔적을 조금씩 쫓아가며, 
 우리가 사는 세상에 어떤 영향을 미칠 수 있는지 탐구합니다."
 ---
 
