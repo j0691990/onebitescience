@@ -1,8 +1,8 @@
 # main links
 main:
+  - title: "Main"
+    url: /main/
   - title: "About"
     url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  - title: "Splash"
-    url: /splash/
