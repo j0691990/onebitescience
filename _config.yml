@@ -27,7 +27,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/front_cover.jpg"
 logo                     : # "/assets/images/Logo2.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "One Bite Science" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
