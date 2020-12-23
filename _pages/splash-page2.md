@@ -4,7 +4,7 @@ title: "Splash Page"
 
 layout: splash
 
-permalink: /splash-page/
+permalink: /test/
 
 ---
 
