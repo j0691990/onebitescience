@@ -1,5 +1,5 @@
 ---
-title: "매일 한입씩 지식을 떠먹자"
+title: "One Bite Science"
 layout: splash
 permalink: /main/
 header:
