@@ -4,7 +4,7 @@ title: "splash"
 
 permalink: /splash/
 
-layout: single
+layout: splash
 
 ---
 
