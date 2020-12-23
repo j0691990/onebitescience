@@ -1,8 +1,8 @@
 
 ---
-title: "Splash Page"
+title: "test"
 
-layout: splash
+layout: sigle
 
 permalink: /test/
 
