@@ -2,7 +2,6 @@
 title: "매일 한입씩 지식을 떠먹자"
 layout: splash
 permalink: /main/
-author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
