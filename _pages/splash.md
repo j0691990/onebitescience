@@ -1,6 +1,7 @@
 ---
 title: "Splash matter"
 layout: splash
+author-profile: true
 permalink: /main/
 header:
   overlay_color: "#000"
