@@ -2,7 +2,7 @@
 ---
 title: "test"
 
-layout: sigle
+layout: single
 
 permalink: /test/
 
