@@ -4,8 +4,8 @@ main:
     url: /splash-page/
   - title: "About"
     url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Splash"
+    url: /splash/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   - title: "Test"
