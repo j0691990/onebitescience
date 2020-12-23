@@ -4,7 +4,7 @@ title: "test"
 
 layout: single
 
-permalink: /about/
+permalink: /test/
 
 ---
 
