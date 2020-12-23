@@ -8,5 +8,5 @@ layout: splash
 
 ---
 
-## splashshshsh
+## ## title of the splash page
 
