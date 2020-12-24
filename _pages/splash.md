@@ -1,8 +1,8 @@
 ---
-title: "One Bite Science"
+title: "Research"
 layout: splash
 entries_layout: grid
-permalink: /home/
+permalink: /research/
 excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
 header:
   overlay_color: "#333"
