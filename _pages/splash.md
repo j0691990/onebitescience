@@ -6,7 +6,7 @@ permalink: /research/
 excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
 header:
   overlay_filter: "0.5"
-  overlay_image: /assets/images/research.jpg
+  overlay_image: /assets/images/research2.jpg
 ---
 
 
