@@ -2,6 +2,8 @@
 
 title:  "One Bite Science 를 시작하며.."
 excerpt: "Github page 와 jekyll을 이용해서 논문을 읽고 지식을 탐구하는 블로그를 하고 싶었습니다."
+entries_layout: grid
+
 toc: true
 toc_sticky: true
 toc_label: "목차"
