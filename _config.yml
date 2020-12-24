@@ -28,7 +28,7 @@ repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-m
 teaser                   : "/assets/images/front_cover.jpg"
 logo                     : # "/assets/images/Logo2.png"
 masthead_title           : "One Bite Science" # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : true # true, false (default)
+breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"

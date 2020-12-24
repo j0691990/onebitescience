@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: slash
+layout: splash
 
 permalink: /research/
 excerpt: "연구(硏究) 「명사」 : 어떤 일이나 사물에 대하여서 깊이 있게 조사하고 <br> 생각하여 진리를 따져 보는 일 <br> - \"연구\", 『표준국어대사전』, 국립국어원 (2018)"
