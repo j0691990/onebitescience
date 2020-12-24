@@ -1,17 +1,11 @@
 ---
 title: "One Bite Science"
 layout: splash
+entries_layout: grid
 permalink: /home/
+excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/front_cover.jpg
-  actions:
-
-   - label: "Read More"
-     url: "https://github.com/mmistakes/minimal-mistakes/"
-
-excerpt: "세상의 모든 진리를 깨우칠 수는 없습니다. 하지만 많은 연구자들이 남겨놓은 흔적을 조금씩 쫓아가며, 우리가 사는 세상에 어떤 영향을 미칠 수 있는지 탐구합니다."
+  overlay_color: "#333"
 ---
 
 
