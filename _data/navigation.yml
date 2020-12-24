@@ -1,8 +1,25 @@
 # main links
 main:
-  - title: "Research"
+  - title: "Fields of Research "
     url: /research/
   - title: "About"
     url: /about/
   # - title: "Sample Collections"
   #   url: /collection-archive/
+
+research:
+  - title: "Management"
+  children:
+    - title: "General Management"
+      url: /research/GM
+    - title: "Organization Behavior"
+      url: /research/OB
+    - title: "Management Information Systems"
+      url: /research/MIS
+    - title: "Marketing"
+      url: /research/MKT
+    - title: "Strategy"
+      url: /research/ST
+    - title: "Entrepreneurship"
+      url: /research/ETP
+    

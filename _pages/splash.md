@@ -7,6 +7,9 @@ excerpt: "This post should display a **header with a solid background color**, i
 header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/research2.jpg
+
+sidebar:
+  nav: "research"
 ---
 
 
