@@ -5,7 +5,8 @@ entries_layout: grid
 permalink: /research/
 excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
 header:
-  overlay_color: "#333"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/research.jpg
 ---
 
 
