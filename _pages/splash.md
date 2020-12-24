@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: splash
+layout: single
 entries_layout: grid
 permalink: /research/
 excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
