@@ -9,8 +9,8 @@ header:
   overlay_filter: "0.7"
   overlay_image: /assets/images/research2.jpg
 
-#sidebar:
-#  nav: "research"
+sidebar:
+  nav: "research"
 
 feature_row:
   - image_path: /assets/images/research.jpg
