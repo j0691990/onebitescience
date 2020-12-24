@@ -52,12 +52,6 @@ feature_row3:
 
 
 
-## 이 페이지는 기획 중입니다. (comming soon) 
-
-- 아직 완성되지 않은 페이지 입니다. 잠시만 기다려 주십시오. 정돈 후 찾아뵙겠습니다.
-
-
-
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
