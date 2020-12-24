@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "ko-KR"
 title                    : "One Bite Science"
-title_separator          : "-"
+title_separator          : "|"
 subtitle                 : "미래를 살아가기위한 필수 영양소"
 name                     : "One bite science"
 description              : "This page is for piling up little stones on my knowledge tower."
