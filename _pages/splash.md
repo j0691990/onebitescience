@@ -48,13 +48,6 @@ feature_row3:
     btn_class: "btn--primary"
 
 
-{% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
-
-{% include feature_row id="feature_row2" type="left" %}
-
-{% include feature_row id="feature_row3" type="right" %}
 ---
 
 
@@ -64,3 +57,11 @@ feature_row3:
 - 아직 완성되지 않은 페이지 입니다. 잠시만 기다려 주십시오. 정돈 후 찾아뵙겠습니다.
 
 
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
