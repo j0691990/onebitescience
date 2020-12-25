@@ -23,6 +23,7 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 feature_row2:
   - image_path: /assets/images/network_science3.jpg
     alt: "placeholder image 2"
@@ -31,6 +32,7 @@ feature_row2:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+
 feature_row3:
   - image_path: /assets/images/network_science3.jpg
     alt: "placeholder image 2"
