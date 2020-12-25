@@ -19,15 +19,15 @@ feature_row:
   - image_path: /assets/images/management4.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="right"`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/network_science.jpg
+  - image_path: /assets/images/network_science3.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="left"`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
