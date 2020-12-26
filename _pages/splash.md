@@ -17,27 +17,27 @@ intro:
 
 feature_row:
   - image_path: /assets/images/management4.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="right"`'
+    alt: "Social Science"
+    title: "Social Science"
+    excerpt: 'Social science is concerned with society and the relationships among individuals within a society'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /assets/images/network_science3.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="left"`'
+  - image_path: /assets/images/natural_science.jpg
+    alt: "Natural Science"
+    title: "Natural Science"
+    excerpt: 'Natural science is concerned with the description, prediction, and understanding of natural phenomena based on empirical evidence from observation and experimentation.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 
 feature_row3:
-  - image_path: /assets/images/network_science3.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+  - image_path: /assets/images/math.jpg
+    alt: "Formal Science"
+    title: "Formal Science"
+    excerpt: 'Formal science is involved in the study of formal systems. It includes mathematics, systems theory, and theoretical computer science.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
