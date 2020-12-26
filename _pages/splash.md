@@ -13,7 +13,7 @@ header:
 #  nav: "research"
 
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'It's not that I'm so smart, it's just that I stay with problems longer <br> - Albert Einstein - '
 
 feature_row:
   - image_path: /assets/images/management4.jpg
