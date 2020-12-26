@@ -13,7 +13,7 @@ header:
 #  nav: "research"
 
 intro: 
-  - excerpt: "It's not that I\'m so smart, it's just that I stay with problems longer - Albert Einstein - "
+  - excerpt: "It's not that Im so smart, its just that I stay with problems longer - Albert Einstein - "
 
 feature_row:
   - image_path: /assets/images/management4.jpg
