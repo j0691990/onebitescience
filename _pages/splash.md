@@ -18,7 +18,7 @@ intro:
 feature_row:
   - image_path: /assets/images/management4.jpg
     alt: "Social Science"
-    title: "Social Science"
+    title: "Social Science(사회과학)"
     excerpt: 'Social science is concerned with society and the relationships among individuals within a society'
     url: "#test-link"
     btn_label: "Read More"
@@ -27,7 +27,7 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/natural_science.jpg
     alt: "Natural Science"
-    title: "Natural Science"
+    title: "Natural Science(자연과학)"
     excerpt: 'Natural science is concerned with the description, prediction, and understanding of natural phenomena based on empirical evidence from observation and experimentation.'
     url: "#test-link"
     btn_label: "Read More"
@@ -36,7 +36,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/math.jpg
     alt: "Formal Science"
-    title: "Formal Science"
+    title: "Formal Science(형식과학)"
     excerpt: 'Formal science is involved in the study of formal systems. It includes mathematics, systems theory, and theoretical computer science.'
     url: "#test-link"
     btn_label: "Read More"
