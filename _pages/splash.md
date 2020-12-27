@@ -29,7 +29,7 @@ feature_row2:
     alt: "Natural Science"
     title: "Natural Science(자연과학)"
     excerpt: 'Natural science is concerned with the description, prediction, and understanding of natural phenomena based on empirical evidence from observation and experimentation.'
-    url: "#test-link"
+    url: /natural_science/
     btn_label: "Explore"
     btn_class: "btn--info"
 
@@ -38,7 +38,7 @@ feature_row3:
     alt: "Formal Science"
     title: "Formal Science(형식과학)"
     excerpt: 'Formal science is involved in the study of formal systems. It includes mathematics, systems theory, and theoretical computer science.'
-    url: "#test-link"
+    url: /formal_science/
     btn_label: "Explore"
     btn_class: "btn--info"
 
