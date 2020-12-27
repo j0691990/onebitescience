@@ -5,6 +5,8 @@ header:
   image: /assets/images/network_science.png
   teaser: /assets/images/network_science2.png
 
+layout: single
+
 ---
 
 Technology convergence is when different forms of technologies cohabitate in a single device, sharing resources and interacting, creating new technology and convenience. 
