@@ -4,6 +4,13 @@ excerpt: "일반적으로 융합은 상이한 대상이 하나로 결합되는 �
 header:
   teaser: /assets/images/network_science.png
 
+categories:
+  - Social Science
+tags:
+  - technology management, technology convergence
+
+last_modified_at: 2020-12-12T08:06:00-05:00
+
 ---
 
 ![image-center](/assets/images/network_science.png){: .align-center}
