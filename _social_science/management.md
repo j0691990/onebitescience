@@ -12,6 +12,8 @@ tags:
 
 last_modified_at: 2020-12-12T08:06:00-05:00
 
+comments: true
+
 ---
 
 ![image-center](/assets/images/network_science.png){: .align-center}
