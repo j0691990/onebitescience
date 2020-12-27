@@ -7,7 +7,8 @@ header:
 categories:
   - Social Science
 tags:
-  - technology management, technology convergence
+  - technology management
+  - technology convergence
 
 last_modified_at: 2020-12-12T08:06:00-05:00
 
