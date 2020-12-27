@@ -20,7 +20,7 @@ feature_row:
     alt: "Social Science"
     title: "Social Science(사회과학)"
     excerpt: 'Social science is concerned with society and the relationships among individuals within a society'
-    url: "#test-link"
+    url: /social_science/
     btn_label: "Explore"
     btn_class: "btn--info"
 
