@@ -1,5 +1,5 @@
 ---
-title: "[개념 소개] Technology Convergence"
+title: "Technology Convergence"
 excerpt: "일반적으로 융합은 상이한 대상이 하나로 결합되는 개념으로, 기술융합은 상이한 기술이 하나로 융합되는 것으로 ... "
 header:
   teaser: /assets/images/network_science.png
